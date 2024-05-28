@@ -16,4 +16,10 @@
 ```
 Google quary sheet
 select* for a table 1
-where condition = meet 
+where condition = meet
+```
+|heading 1|heading 2|heading 3|
+|--------|---------|----------|
+|male|female|milly |
+
+ 
